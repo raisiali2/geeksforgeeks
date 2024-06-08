@@ -1,4 +1,6 @@
 # geeksforgeeks
+
+
 # Python Learning Curriculum
 
 ## Overview
@@ -359,3 +361,5 @@ This curriculum is designed to help you learn Python in two months, focusing on 
 - **Git and GitHub**
   - [Pro Git Book](https://git-scm.com/book/en/v2)
   - [GitHub Documentation](https://docs.github.com/en)
+
+
